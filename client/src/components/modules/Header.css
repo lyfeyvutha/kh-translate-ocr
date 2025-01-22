@@ -1,0 +1,65 @@
+.Header-container {
+  padding: var(--s) var(--m);
+  background-color: var(--primary);
+}
+
+.Header-title {
+  color: var(--white);
+  font-size: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 150px;
+}
+
+.button-blue {
+  background-color: var(--primary) !important;
+  height: 40px;
+  text-transform: none !important;
+}
+
+.button-orange {
+  background-color: #f58220 !important;
+  height: 40px;
+  margin-right: 10px;
+  text-transform: none !important;
+}
+
+.button-group {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.language-buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.select-dropdown {
+  background-color: var(--primary);
+  height: 40px;
+  color: white !important;
+  min-width: 120px;
+}
+
+.flag-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.Profile-avatar {
+  max-width: 100%;
+  width: 120px;
+  height: 120px;
+  display: block;
+  background-position-y: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  background-image: url("../../assets/TranslateKH-logo.png");
+}

@@ -1,0 +1,17 @@
+.App-container {
+  max-width: 960px;
+  padding: var(--m) var(--m);
+  margin: auto;
+}
+
+.App-title {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.App-title h1 {
+  color: var(--primary);
+  font-size: 24px;
+  line-height: 1.5;
+}
+
