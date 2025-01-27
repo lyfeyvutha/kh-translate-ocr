@@ -19,4 +19,3 @@ server/server-socket.js
 package.json
 vite.config.js
 ```
-# kh-translate-ocr
