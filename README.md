@@ -8,7 +8,7 @@ visit `http://localhost:5173`
 
 ## don't touch
 
-the following files students do not need to edit. feel free to read them if you would like.
+the following files students/interns do not need to edit. feel free to read them if you would like.
 
 ```
 client/src/utilities.js
